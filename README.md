@@ -83,6 +83,8 @@ power-bi/     Power BI report
 screenshots/  Dashboard and data-model previews
 docs/         Project documentation
 
+```
+
 ## Planned development
 
 - ETL and data-quality monitoring page
@@ -90,3 +92,21 @@ docs/         Project documentation
 - Forecast accuracy analysis
 - Automated data refresh
 - Additional technical documentation
+
+
+<img width="1492" height="817" alt="dashboard" src="https://github.com/user-attachments/assets/1aece496-117a-4d2b-831e-09a558c35607" />
+
+
+The current report contains:
+
+- Actual revenue
+- Budget revenue
+- Budget variance
+- Budget achievement
+- Gross margin
+- Gross margin percentage
+- Monthly sales development
+- Sales by region
+- Revenue share by product category
+- Interactive year filtering
+
