@@ -82,3 +82,11 @@ sql/          T-SQL database deployment scripts
 power-bi/     Power BI report
 screenshots/  Dashboard and data-model previews
 docs/         Project documentation
+
+## Planned development
+
+- ETL and data-quality monitoring page
+- CRM opportunity analysis
+- Forecast accuracy analysis
+- Automated data refresh
+- Additional technical documentation
